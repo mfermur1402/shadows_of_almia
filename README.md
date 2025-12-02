@@ -69,7 +69,7 @@ Promueve la transparencia, la colaboración y el respeto por la comunidad de sof
 ## **Repositorio oficial**
 El proyecto está disponible en GitHub:
 
-👉 **https://github.com/mfermur1402/shadows-of-almia**
+👉 **https://github.com/mfermur1402/shadows_of_almia**
 
 En el repositorio se incluyen:
 
