@@ -71,11 +71,3 @@ El proyecto está disponible en GitHub:
 
 👉 **https://github.com/mfermur1402/shadows_of_almia**
 
-En el repositorio se incluyen:
-
-- **LICENSE**: Texto completo de la GNU GPLv3  
-- **README.md**: Información del proyecto, su modelo y licencia  
-- Recursos y código fuente correspondientes al desarrollo del juego  
-
----
-
